@@ -29,7 +29,7 @@ jobs:
       - run: npm run build
 
       - name: Deploy 🚀
-        uses: JamesIv7es/github-pages-deploy-action@v4.3.2
+        uses: JamesIv7es/github-pages-deploy-action@v4.3.3
         with:
           branch: git-pages # The branch the action should deploy to.
           folder: out/ # The folder the action should deploy.
