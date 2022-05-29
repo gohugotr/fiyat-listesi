@@ -41,7 +41,7 @@ Vurgulu ve vurgusuz buton kodları
             </a>
 ```
 
-![Buton resmi](2022-05-29-13-22-18.jpg)
+![Buton resmi](2022-05-29-13-22-18.png)
 
 **`Start your Trial`** butonunu aşağıya hizalama kodu.
 
@@ -61,7 +61,7 @@ Vurgulu ve vurgusuz buton kodları
     <ul className='flex-1 mt-6 space-y-4'>
 ```
 
-![Hizalama Resmi](2022-05-29-15-02-51.jpg)
+![Hizalama Resmi](2022-05-29-15-02-51.png)
 
 `Arka tarafa satır yönünde zemin döşeme`
 
@@ -77,4 +77,4 @@ Vurgulu ve vurgusuz buton kodları
   </div>
 ```
 
-![Zemin döşeme](2022-05-29-15-03-33.jpg)
+![Zemin döşeme](2022-05-29-15-03-33.png)
