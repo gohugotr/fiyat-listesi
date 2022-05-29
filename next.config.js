@@ -5,7 +5,7 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  basePath: 'fiyat-listesi/',
+  basePath: '/fiyat-listesi/',
   assetPrefix: '/',
 }
 
