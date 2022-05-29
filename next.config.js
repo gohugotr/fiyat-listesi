@@ -5,12 +5,6 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  trailingSlash: true,
-  exportPathMap: function () {
-    return {
-      '/': { page: '/' },
-    }
-  },
 }
 
 module.exports = nextConfig
