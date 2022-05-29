@@ -5,10 +5,8 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  env: {
-    PUBLIC_URL: 'https://gohugotr.github.io/fiyat-listesi/',
-    assetPrefix: './',
-  },
+  basePath: '/fiyat-listesi',
+  assetPrefix: '/fiyat-listesi/',
 }
 
 module.exports = nextConfig
