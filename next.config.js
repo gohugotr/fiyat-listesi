@@ -5,8 +5,8 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  basePath: '/fiyat-listesi',
-  assetPrefix: '/github.com/gohugotr/fiyat-listesi/blob/git-pages/',
+  basePath: '/',
+  assetPrefix: './fiyat-listesi/',
 }
 
 module.exports = nextConfig
