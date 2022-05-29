@@ -5,8 +5,12 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  basePath: '/',
-  assetPrefix: './fiyat-listesi/',
+  trailingSlash: true,
+  exportPathMap: function () {
+    return {
+      '/': { page: '/' },
+    }
+  },
 }
 
 module.exports = nextConfig
