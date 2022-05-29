@@ -6,7 +6,7 @@ const nextConfig = {
     path: '',
   },
   basePath: '/fiyat-listesi',
-  assetPrefix: 'github.com/gohugotr/fiyat-listesi/blob/git-pages/',
+  assetPrefix: '/github.com/gohugotr/fiyat-listesi/blob/git-pages/',
 }
 
 module.exports = nextConfig
