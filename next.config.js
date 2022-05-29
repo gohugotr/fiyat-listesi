@@ -6,7 +6,7 @@ const nextConfig = {
     path: '',
   },
   env: {
-    PUBLIC_URL: 'https://gohugotr.github.io/fiyat-listesi',
+    PUBLIC_URL: 'https://gohugotr.github.io/fiyat-listesi/',
     assetPrefix: './',
   },
 }
